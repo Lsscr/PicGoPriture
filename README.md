@@ -1,0 +1,2 @@
+# PicGoPriture
+PicGo图床
